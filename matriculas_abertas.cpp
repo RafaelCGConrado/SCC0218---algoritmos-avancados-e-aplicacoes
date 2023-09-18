@@ -5,7 +5,7 @@ using namespace std;
 
 /*
     Ex 1 de Algoritmos Avançados - Matriculas Abertas
-    Rafael C. G. Conrado - 13671806
+    Rafael C. G. Conrado
 */
 
 int main() {
